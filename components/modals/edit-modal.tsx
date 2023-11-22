@@ -104,7 +104,7 @@ export const EditTodoModal = () => {
       <DialogContent className="p-0 overflow-hidden dark:bg-[#2B2D31]">
         <DialogHeader className="px-6 py-4 space-y-2">
           <DialogTitle className="text-2xl font-bold text-left">
-            Delete TODO
+            Edit TODO
           </DialogTitle>
         </DialogHeader>
         <Form {...form}>
